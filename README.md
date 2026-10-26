@@ -1,5 +1,10 @@
 # Office Manager Tycoon TUI
 
+> [!NOTE]
+> 🪐 **Bu proje artık [GraviTUI Monorepo](https://github.com/halilogia/GraviTUI) ekosisteminin resmi bir parçasıdır.**  
+> En güncel geliştirmeler, yeni özellikler ve merkezi başlatıcı için **[GraviTUI/apps/office_manager](https://github.com/halilogia/GraviTUI/tree/main/apps/office_manager)** adresini ziyaret edin.
+
+
 Terminalde çalışan, 24-bit TrueColor, yaşayan bir **Ofis Müdürü Simülatörü**. Saf Python 3, sıfır bağımlılık.
 
 ## Çalıştırma
